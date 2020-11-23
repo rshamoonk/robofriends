@@ -1,0 +1,12 @@
+    @font-face {
+    font-family: 'Aquire Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Aquire Regular'), url('Aquire-BW0ox.woff') format('woff');
+    }
+
+    h1 {
+    	font-family: 'Aquire Regular';
+    	font-weight: 500;
+    	color: #0df;
+    }
